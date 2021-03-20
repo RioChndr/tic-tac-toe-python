@@ -12,7 +12,7 @@ Ada beberapa jenis game tic-tac-toe disini.
 
    Run `python tic-tac-toe.py`
 
-   ![image-20210320171238829](E:\PROJEK\02. PRIBADI\My Own Game\game-tic-tac-toe\image_readme\image-20210320171238829.png)
+   ![image-20210320171238829](https://github.com/RioChndr/tic-tac-toe-python/blob/main/image_readme/image-20210320171238829.png)
 
    Cara bermain : memasukkan koordinat posisi player. **(The worst UX ever)**
 
@@ -20,7 +20,7 @@ Ada beberapa jenis game tic-tac-toe disini.
 
    Run `python tic-tac-toe-simple-game.py`
 
-   ![image-20210320171416228](E:\PROJEK\02. PRIBADI\My Own Game\game-tic-tac-toe\image_readme\image-20210320171416228.png)
+   ![image-20210320171416228](https://github.com/RioChndr/tic-tac-toe-python/blob/main/image_readme/image-20210320171416228.png)
 
    
 
@@ -28,4 +28,4 @@ Ada beberapa jenis game tic-tac-toe disini.
 
    Run `python tic-tac-toe-game.py`
 
-   ![image-20210320171349436](E:\PROJEK\02. PRIBADI\My Own Game\game-tic-tac-toe\image_readme\image-20210320171349436.png)
+   ![image-20210320171349436](https://github.com/RioChndr/tic-tac-toe-python/blob/main/image_readme/image-20210320171349436.png)
