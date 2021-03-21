@@ -10,7 +10,7 @@ Ada beberapa jenis game tic-tac-toe disini.
 
 1. Terminal
 
-   Run `python tic-tac-toe.py`
+   Run `python tic-tac-toe-terminal.py`
 
    ![image-20210320171238829](https://github.com/RioChndr/tic-tac-toe-python/blob/main/image_readme/image-20210320171238829.png)
 
@@ -18,7 +18,7 @@ Ada beberapa jenis game tic-tac-toe disini.
 
 2. GUI Simple
 
-   Run `python tic-tac-toe-simple-game.py`
+   Run `python tic-tac-toe-pygame-1.py`
 
    ![image-20210320171416228](https://github.com/RioChndr/tic-tac-toe-python/blob/main/image_readme/image-20210320171416228.png)
 
@@ -26,6 +26,6 @@ Ada beberapa jenis game tic-tac-toe disini.
 
 3. GUI simplen't
 
-   Run `python tic-tac-toe-game.py`
+   Run `python tic-tac-toe-pygame-2.py`
 
    ![image-20210320171349436](https://github.com/RioChndr/tic-tac-toe-python/blob/main/image_readme/image-20210320171349436.png)
